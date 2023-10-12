@@ -18,7 +18,7 @@ function App() {
     <BrowserRouter>
     <ul>
       <li>
-      <Link to="/CompA">click to CompA</Link>
+      <Link to="/CompA">click to CompAbC</Link>
       </li>
     </ul>
       
