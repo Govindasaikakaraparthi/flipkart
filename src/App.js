@@ -13,7 +13,7 @@ function App() {
       roll:"668" 
     },
     {
-      name:"Sai",
+      name:"Saiss",
       roll:"622"
     }
   ]
