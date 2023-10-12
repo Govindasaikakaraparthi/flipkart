@@ -11,6 +11,10 @@ function App() {
     {
       name:"jhanu",
       roll:"668" 
+    },
+    {
+      name:"SAI",
+      roll:"622"
     }
   ]
   return (
@@ -18,7 +22,7 @@ function App() {
     <BrowserRouter>
     <ul>
       <li>
-      <Link to="/CompA">click to CompAbC</Link>
+      <Link to="/CompA">click to CompA WELCOME </Link>
       </li>
     </ul>
       
